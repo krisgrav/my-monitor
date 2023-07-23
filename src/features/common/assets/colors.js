@@ -1,0 +1,26 @@
+export const colors = [
+    {
+        id:"white",
+        hex:"#ECECEC"
+    },
+    {
+        id:"yellow",
+        hex:"#F3D250"
+    },
+    {
+        id:"lightblue",
+        hex:"#90CCf4"
+    },
+    {
+        id:"blue",
+        hex:"#5DA2d5"
+    },
+    {
+        id:"pink",
+        hex:"#F78888"
+    },
+    {
+        id:"green",
+        hex:"#32a852"
+    }
+]
