@@ -12,4 +12,8 @@ export const StyledH2 = styled.h2`
     ${props => props.color ? css`
           color: ${props.color};             
     `: ''}
+
+    ${props => props.background ? css`
+          background: ${props.background};             
+    `: ''}
 `

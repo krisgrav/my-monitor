@@ -8,7 +8,7 @@ import {
 import { RootLayout } from "./Components/RootLayout";
 import { HomePage } from "../../pages/homePage/HomePage";
 import { RouterError } from "./Components/ErrorLayout";
-import { DesignSystemPage } from "../../pages/DesignSystem";
+import { DesignSystemPage } from "../../pages/DesignSystemPage";
 
 export const Router = createBrowserRouter(
     [

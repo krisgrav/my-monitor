@@ -12,4 +12,9 @@ export const StyledH1 = styled.h1`
     ${props => props.color ? css`
           color: ${props.color};             
     `: ''}
+
+    ${props => props.background ? css`
+          background: ${props.background};             
+    `: ''}
+    
 `

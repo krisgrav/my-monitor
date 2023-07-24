@@ -20,7 +20,6 @@ export const Navbar = () => {
                     gap:"0.5rem"
                 }}
             >
-               
                 <StyledH1 blue>
                     {"React Lab"} 
                 </StyledH1>
