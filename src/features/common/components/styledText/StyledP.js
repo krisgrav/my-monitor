@@ -12,4 +12,8 @@ export const StyledP = styled.div`
     ${props => props.color ? css`
           color: ${props.color};             
     `: ''}
+
+    ${props => props.background ? css`
+          background: ${props.background};             
+    `: ''}
 `
