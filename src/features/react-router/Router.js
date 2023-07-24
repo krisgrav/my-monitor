@@ -6,7 +6,7 @@ import {
   } from "react-router-dom";
 
 import { RootLayout } from "./Components/RootLayout";
-import { HomePage } from "../../pages/homePage/HomePage";
+import { HomePage } from "../../pages/HomePage";
 import { RouterError } from "./Components/ErrorLayout";
 import { DesignSystemPage } from "../../pages/DesignSystemPage";
 

@@ -1,5 +1,5 @@
-import { StyledH1 } from "../../features/common/components/styledText/StyledH1"
-import { StyledP } from "../../features/common/components/styledText/StyledP"
+import { StyledH1 } from "../features/common/components/styledText/StyledH1"
+import { StyledP } from "../features/common/components/styledText/StyledP"
 
 export const HomePage = () => {
     return(
